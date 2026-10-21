@@ -1,0 +1,11 @@
+runtime/
+__pycache__/
+*.pyc
+test-output/
+dist/
+.node_modules/
+node_modules/
+
+NearDrop.exe
+runtime.zip
+*.pdb
